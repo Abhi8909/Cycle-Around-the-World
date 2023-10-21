@@ -1,0 +1,64 @@
+{
+    "touristSpots": [
+        {
+            "name": "Antarctica",
+            "latitude": "82.8628",
+            "longitude": "135.0000",
+            "cycling": false
+        },
+        {
+            "name": "Greenland",
+            "latitude": "71.7069",
+            "longitude": "42.6043",
+            "cycling": false
+        },
+        {
+            "name": "Easter Island",
+            "latitude": "27.1127",
+            "longitude": "109.3497",
+            "cycling": true
+        },
+        {
+            "name": "Machu Picchu",
+            "latitude": "13.2263",
+            "longitude": "72.4973",
+            "cycling": false
+        },
+        {
+            "name": "Mount Everest",
+            "latitude": "27.9881",
+            "longitude": "86.9250",
+            "cycling": false
+        },
+        {
+            "name": "Great Barrier Reef",
+            "latitude": "18.2871",
+            "longitude": "147.6992",
+            "cycling": false
+        },
+        {
+            "name": "Trans-Siberian Railway",
+            "latitude": "59.9343",
+            "longitude": "30.3351",
+            "cycling": false
+        },
+        {
+            "name": "Stonehenge",
+            "latitude": "51.1789",
+            "longitude": "1.8262",
+            "cycling": true
+        },
+        {
+            "name": "Uluru (Ayers Rock)",
+            "latitude": "25.3444",
+            "longitude": "131.0369",
+            "cycling": false
+        },
+        {
+            "name": "The Great Wall of China",
+            "latitude": "40.4319",
+            "longitude": "116.5704",
+            "cycling": true
+        }
+    ]
+}
